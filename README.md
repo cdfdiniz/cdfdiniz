@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Assets/Mario_Hello_Big.gif
 
 <!--
 **cdfdiniz/cdfdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
