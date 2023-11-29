@@ -1,8 +1,3 @@
-### Hi there 👋 
-
-<!--
-**cdfdiniz/cdfdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  <img src ="https://www.free-emoticons.com/files/funny-emoticons/7795.png"/>
 
  ### Olá Eu sou a Carla Diniz!
